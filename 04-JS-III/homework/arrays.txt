@@ -1,0 +1,4 @@
+los Arrays, arreglos o en matemàticas conocidos como vectores, son agrupaciones o conjuntos organizados de manera iterada, osea, de forma consecutiva con posibilidad de secuenciarlos mediante un indice. 
+muy utiles a la hora de reducir código utilizando bucles para recorrelos mediante un indice. 
+podemos inferir que un Array puede ser la primera forma estructurada de registros para almacenamiento de datos para construir informaciòn. 
+los arreglos o vectores pueden ser de un mismo tipo de datos pero también pueden contener múltiples tipos de datos. 
