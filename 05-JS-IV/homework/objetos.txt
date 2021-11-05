@@ -1,0 +1,12 @@
+* Objetos:
+    un objeto es una instancia de una clase, es la similitud con la realidad, donde todo lo que nos rodea fisicamente equivale a un objeto, entiendase tambièn, que un objeto posee propiedades y
+    que un objeto también puede tener actividades o acciones. 
+* Propiedades: 
+    los objetos poseen cualidades que les definen, tamaño, forma, color, etc. las propiedades son aquellas que ayudan a definirle. 
+* Métodos:
+    los métodos son aquellas acciones o funciones que pueden desempeñarse con los objetos, por ejemplo un carro "encendido", un atleta "corre media maratón". recibe parametros del exterior puede 
+    interactuar con sus propiedades y ejecutar las acciones, devolver un resultado o simplemente ejecutar un aacción.
+* Bucle `for…in`
+    Es una función que sirve para iterar por todas las propiedades de un objeto que se encuentra en cadenas, se debe a una caracteristica especial ya que con un ciclo for no es posible hacerlo.
+* Notación de puntos vs notación de corchetes:
+    Son las formas de acceder a las propiedades y métodos, con corchetes según la literatura puede ser usado para expresiones con caracteres no validos. 
