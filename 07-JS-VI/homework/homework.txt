@@ -1,0 +1,3 @@
+funciones callback
+    Una función callback es aquella que se ingresa a otra función como argumento. aunque revierte un poco más de complejidad y abstracción, su filosofía va en lìnea con el ahorro de código.
+    se pueden utilizar los argumentos que se ingresan a la función principal para la función eembebida. 

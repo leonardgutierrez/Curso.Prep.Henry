@@ -1,0 +1,5 @@
+* `prototype`:
+    los métodos prototype son aquellos que serán identicos a cada objeto esto garantiza que no sea necesaria la creaciòn de metodos iguales para distintos objetos, va acorde con la filosofía de no repetirse a sí mismo. 
+
+* _Constructors_ (de Clases)
+    Son las clases, la plantilla sobre la cual vamos a instanciar un objeto, en palabras màs castizas, la fabrica de objetos en particular. 
